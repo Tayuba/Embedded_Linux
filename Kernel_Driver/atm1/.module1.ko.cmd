@@ -1,0 +1,1 @@
+cmd_/home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.ko /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.o /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.mod.o;  true

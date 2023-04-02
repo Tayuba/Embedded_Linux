@@ -1,0 +1,1 @@
+cmd_/home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.mod := printf '%s\n'   module1.o | awk '!x[$$0]++ { print("/home/ayuba/Embedded_Linux/Kernel_Driver/atm1/"$$0) }' > /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.mod

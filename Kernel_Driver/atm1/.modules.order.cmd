@@ -1,0 +1,1 @@
+cmd_/home/ayuba/Embedded_Linux/Kernel_Driver/atm1/modules.order := {   echo /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/module1.ko; :; } > /home/ayuba/Embedded_Linux/Kernel_Driver/atm1/modules.order
