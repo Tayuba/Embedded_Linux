@@ -12,14 +12,14 @@ MODULE_DESCRIPTION("First kernel driver");
 // Module Init function
 static int __init moduleInit(void){
 
-	printk("Welcome to Embedded Linuc Kernel Repo\n");
+	printk("Welcome to Embedded Linux Kernel Repo\n");
     	printk("Kernel Module Inserted Successfully...\n");
     	return 0;
 }
 
 // Module Exit function
 static void __exit moduleExit(void){
-	printk("Welcome to Embedded Linuc Kernel Repo\n");
+	printk("Goodbye, see you son\n");
     	printk("Kernel Module Removed Successfully...\n");
 }
 
